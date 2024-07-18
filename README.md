@@ -1,4 +1,4 @@
-### KH Fanmade Website
+# KH Fanmade Website
 
 Welcome to the KH Fanmade Website! This website was developed back in 2019 during my senior high school years. It was my first ever developed website, marking the beginning of my journey into web development.
 
