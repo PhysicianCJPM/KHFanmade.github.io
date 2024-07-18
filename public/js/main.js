@@ -1,4 +1,4 @@
-clwindow.onscroll = function() {scrollFunction()};
+window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
   if (document.body.scrollTop > 632 || document.documentElement.scrollTop > 632) {
